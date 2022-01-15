@@ -93,7 +93,7 @@ Telegram Username: @ToTheMoon
 
 Discord Username: @ToTheMoon#1111
 
-SDN Wallet Address: YME2HxqwpqpVoVEedGf3m4z1wLbYF3QZSXwAZgpGmZb8j4W
+ASTR Wallet Address: XXX
 
 Contributions:
 
