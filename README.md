@@ -89,9 +89,9 @@ Please submit your contribution by creating an issue on this repository latest b
 
 Title: January 2022 Contribution
 
-Telegram Username: @ToTheMoon
+Telegram Username: @ThisIsTest
 
-Discord Username: @ToTheMoon#1111
+Discord Username: @ThisIsTest
 
 ASTR Wallet Address: XXX
 
