@@ -113,4 +113,4 @@ The status of the rewards will be posted in a spreadsheet for everyone to see.
 
 ## Application Form
 
-Click here to apply!
+Click [here](https://4now5dv97qx.typeform.com/to/qETPk8kQ) to apply!
