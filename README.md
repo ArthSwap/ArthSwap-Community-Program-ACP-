@@ -10,8 +10,7 @@ ArthSwap is a One-Stop Defi On Astar Network.
 
 With simple UI and design for High APY, it enables High-Frequency Trade on Astar Network.
 
-In order to ahieve our mission, we need your help.
-Therefore, we are looking for active members of community to help promote and raise awareness of ArthSwap and Astar Network. Commuinity managers will become official representatives of ArthSwap and will play an important role of creating the future of ArthSwap/Astar Network.
+In order to ahieve our mission, we need your help. Therefore, we are looking for active members of community to help promote and raise awareness of ArthSwap and Astar Network. Commuinity managers will become official representatives of ArthSwap and will play an important role of creating the future of ArthSwap/Astar Network.
 
 ## Criteria
 
