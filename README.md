@@ -111,3 +111,7 @@ The status of the rewards will be posted in a spreadsheet for everyone to see.
 ## Application Form
 
 Click [here](https://4now5dv97qx.typeform.com/to/qETPk8kQ) to apply!
+![image](https://user-images.githubusercontent.com/97738092/150552380-643d1689-9b54-4b17-bc5e-57518951697e.png)
+
+
+The status of the rewards will be posted in a spreadsheet for everyone to see.
