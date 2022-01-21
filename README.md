@@ -64,7 +64,8 @@ In principle, we follow Astar's New Program.
 
 | ID | Description | Required Quantity | Max Points |
 | --- | --- | --- | --- |
-| CM | Community Management
+| CM | 
+Community Management
 Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link
 Please don't just introduce our service, but also try to spread Astar. | Day to day | 50 |
 | VSM | Viral Social Media Engagement - This is part of our strategy to create viral social media presence. You are required to put on "ArthSwap Community Manager" on your Twitter account. Create short quality content or memes on Twitter or other social media platforms. Please share your tweets with your local community and get them to retweet to increase presence. At that time,please use your own words to explain how you think ArthSwap is valuable to Astar and the Astar community! You need to share your Twitter analytics (https://analytics.twitter.com/
