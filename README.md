@@ -108,9 +108,9 @@ Contributions:
 
 ## Current Reward Situation
 
-The status of the rewards will be posted in [this spreadsheet](https://docs.google.com/spreadsheets/d/1OHdKGhQco3ZxnshZFYdMiDbbYgI9EK1rgSupXzqI5Hs/edit?usp=sharing) for everyone to see.
+The status of the rewards will be posted in [this spreadsheet](https://docs.google.com/spreadsheets/d/1f1FJJkUYjxox2LdthxeykboJhZnvWMAKphU06SMiDCA/edit?usp=sharing) for everyone to see.
 
 ## Application Form
 
-Click [here](https://4now5dv97qx.typeform.com/to/YUroKxSw) to apply!
+Click [here](https://4now5dv97qx.typeform.com/to/qETPk8kQ) to apply!
 The status of the rewards will be posted in a spreadsheet for everyone to see.
