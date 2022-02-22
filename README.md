@@ -75,10 +75,8 @@ In principle, we follow Astar's New Program.
 | --- | --- | --- | --- |
 | CC | The Content Creator - Write and article or make a video about ArthSwap. Content has to be ORIGINAL. | 1 per month | 10 |
 | TT | The Tutor - Write a how-to tutorial in your own words. | 1 per month | 10 |
-| BH | The Bughunter - Find bugs on any of Shiden/Astar platforms. It can be a typo, grammar or technical bugs. Bugs need to be reported on Github issue and please go through all the existing issues to find if the bug has been reported. | 5 - 10 bugs a month | 10 |
 | EM | The Event Manager - Organize an online/physical meetup/AMA with your local community. Plan ahead and please reach out to us if you need financial support. It is best to record the meetup session. | 1 per month | 10 |
 | ART | The Artist - This can be infographic, animated logo, sticker packs, music, movie, NFT etc. The creativity is your limit. Bonus will be given for outstanding work which will be accepted for official use. | 1 per month | 10 |
-| DEV | The Developer - Development work and coding. Please reach out to us before proceeding with the task. | 30 | 30 |
 
 For any other types of contribution that is not listed above, please reach out to the team.
 
